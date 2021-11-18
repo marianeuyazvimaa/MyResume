@@ -1,0 +1,125 @@
+body {
+    font-family: 'Monserrat', sans-serif;
+    background-color: #fae3f5;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1100px;
+    background-color: #fae3f5;
+    margin: 10px;
+}
+
+/* Main content section */
+.main-content{ 
+    background-color: #f2f2f2;
+    padding: 90px 90px;
+
+}
+/* about me section */
+.about-me {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+    margin: 0 0 40 0;
+}
+.about-me-name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin: 0 0 25 0;    
+}
+.about-me-description{
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;   
+}
+/* main content section */
+.main-content-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+    margin-bottom: 10px;      
+}
+.hard-skills {
+    margin-bottom: 50px;
+}
+.work-experience {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 5px;    
+}
+
+.education{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 50px;
+}
+/* my-list */
+.my-list{
+    padding: 0 0 10 0;
+
+}
+/* my-list-duties */
+.my-list-duties{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #f7a934;
+}
+.my-list-item{
+    color: black;
+}
+/* sidebar-section */
+.sidebar{
+    background-color: #fae3f5;
+    width: 400px;
+    padding: 0px;
+}
+.contacts-section,
+.soft-skills,
+.language,
+.hobby{
+    margin: 50px 0 0 40px;
+}
+.sidebar-section{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color:#f7a934;
+    margin-bottom: 10px;
+}
+/* contact section type */
+.contact-section-type{
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color:#f7a934;
+margin-right: 5px;
+}
+.contact-section-link{
+color: black;
+}
